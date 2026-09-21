@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 
 <h1>Zein dira CSM ospetsuak?</h1>
 
